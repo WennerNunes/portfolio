@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Wenner Nunes | Front-End Developer</title>
+    <meta name="description" content="Portfolio of Wenner Nunes, front-end developer in the UK. Projects built with HTML, CSS and JavaScript, including CoffeeFlow, a cash control app.">
+
+    <!-- Preview card when the link is shared (LinkedIn, WhatsApp...) -->
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Wenner Nunes | Front-End Developer">
+    <meta property="og:description" content="Front-end developer building real tools with HTML, CSS and JavaScript. See my projects.">
+    <meta property="og:image" content="Asset/Jedi_Wenner.jpg">
+
+    <!-- Hides sections for the reveal animation only when JavaScript is running -->
+    <script>document.documentElement.classList.add('js');</script>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400..900&family=Space+Grotesk:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E%E2%AD%90%3C/text%3E%3C/svg%3E">
+</head>
+<body>
+    <!-- Main Navigation -->
+    <nav class="nav" aria-label="Main">
+        <ul class="nav-list">
+            <li><a href="#home">Home</a></li>
+            <li><a href="#about">About</a></li>
+            <li><a href="#projects">Projects</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+
+    <main>
+        <!-- Hero Section -->
+        <section id="home" class="main">
+            <div>
+                <h1>Wenner Nunes<br>Front-End Developer</h1>
+                <p>Developing solutions with the Force of code!</p>
+                <a href="#projects" class="call-to-action">Explore my projects 👇</a>
+            </div>
+        </section>
+
+        <!-- About Section -->
+        <section id="about" class="about">
+            <div>
+                <h2>About the Developer</h2>
+                <p>
+                    I'm Wenner, a front-end developer based in the UK. I have a degree in History from UFES (Brazil), and I spent eight years running my own gardening business before moving into tech.
+                    <br><br>
+                    Today I work as a freelance front-end developer and digital consultant: I've delivered a login system for a paying client and helped a local Portuguese café improve its SEO and online presence. I like building tools that solve real problems, like CoffeeFlow, the cash control app I made for our coffee farm.
+                    <br><br>
+                    Open to junior roles, freelance missions and collaborations across the galaxy!
+                </p>
+
+                <h3 class="skills-title">Skills</h3>
+                <div class="skills">
+                    <span class="skill-tag">HTML5</span>
+                    <span class="skill-tag">CSS3</span>
+                    <span class="skill-tag">JavaScript</span>
+                    <span class="skill-tag">Git &amp; GitHub</span>
+                    <span class="skill-tag">Responsive Design</span>
+                </div>
+
+                <h3 class="skills-title">Currently learning</h3>
+                <div class="skills">
+                    <span class="skill-tag learning">React</span>
+                    <span class="skill-tag learning">TypeScript</span>
+                    <span class="skill-tag learning">Node.js</span>
+                </div>
+            </div>
+            <img src="Asset/Jedi_Wenner.jpg" alt="Illustration of Wenner as a Jedi holding a blue lightsaber">
+        </section>
+
+        <!-- Projects Section -->
+        <section id="projects" class="projects">
+            <h2>My Galactic Projects</h2>
+            <p>Click a project to see the details, the code and the live demo.</p>
+
+            <div class="project-list">
+                <div class="project-card" data-project="0" role="button" tabindex="0" aria-label="Open details about CoffeeFlow">
+                    <img src="Asset/coffeeflow.jpg" alt="CoffeeFlow cash control app on mobile">
+                    <div class="project-overlay">
+                        <h3>CoffeeFlow</h3>
+                        <p>HTML, CSS, JavaScript, Chart.js</p>
+                    </div>
+                </div>
+
+                <div class="project-card" data-project="1" role="button" tabindex="0" aria-label="Open details about Household Budget Organizer">
+                    <img src="Asset/household-budget.jpg" alt="Household Budget Organizer with budget chart and category cards">
+                    <div class="project-overlay">
+                        <h3>Household Budget Organizer</h3>
+                        <p>HTML, CSS, JavaScript, Chart.js</p>
+                    </div>
+                </div>
+
+                <div class="project-card" data-project="2" role="button" tabindex="0" aria-label="Open details about Space Login, a client project">
+                    <span class="client-badge">Client project</span>
+                    <img src="Asset/space-login.jpg" alt="Space Login page with glass effect over a nebula background">
+                    <div class="project-overlay">
+                        <h3>Space Login</h3>
+                        <p>HTML, CSS, JavaScript</p>
+                    </div>
+                </div>
+            </div>
+
+            <a href="#contact" class="action" id="request-comlink">Work with me</a>
+        </section>
+
+        <!-- Contact Section -->
+        <section id="contact" class="contact">
+            <h2>Get in Touch</h2>
+            <p>Looking for a front-end developer? Send a transmission to the Code Jedi Council.</p>
+            <div class="contact-links">
+                <a class="call-to-action" href="mailto:wennerluiz6@gmail.com">Email me</a>
+                <a class="call-to-action outline" href="https://www.linkedin.com/in/wenner-luiz-santana-nunes-122712205" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+                <a class="call-to-action outline" href="https://github.com/WennerNunes" target="_blank" rel="noopener noreferrer">GitHub</a>
+                <a class="call-to-action outline" href="Asset/Wenner-Nunes-CV.pdf" download>Download CV</a>
+            </div>
+            <p class="contact-email">wennerluiz6@gmail.com</p>
+        </section>
+    </main>
+
+    <!-- Footer -->
+    <footer>
+        <p class="footer-brand">
+            <a href="#home">Wenner Dev © 2026</a>
+        </p>
+        <p>Developed with the Force and lots of coffee!</p>
+        <div class="social-links">
+            <a href="https://github.com/WennerNunes" class="social-link" target="_blank" rel="noopener noreferrer">GitHub</a>
+            <a href="https://www.linkedin.com/in/wenner-luiz-santana-nunes-122712205" class="social-link" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+            <a href="https://www.instagram.com/wennerluiz" class="social-link" target="_blank" rel="noopener noreferrer">Instagram</a>
+        </div>
+    </footer>
+
+    <!-- Project Modal -->
+    <div id="project-modal" class="project-modal" role="dialog" aria-modal="true" aria-labelledby="modal-title">
+        <div class="modal-content">
+            <button type="button" class="close-modal" aria-label="Close project details">&times;</button>
+            <img class="modal-image" src="" alt="">
+            <div class="modal-details">
+                <h3 class="modal-title" id="modal-title"></h3>
+                <p class="modal-description"></p>
+                <div class="modal-tech"></div>
+                <div class="modal-links">
+                    <a href="#" class="live-demo" target="_blank" rel="noopener noreferrer">View Demo</a>
+                    <a href="#" class="view-code" target="_blank" rel="noopener noreferrer">View Code</a>
+                    <span class="private-demo">Client project — live demo private</span>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
