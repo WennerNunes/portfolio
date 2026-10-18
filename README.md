@@ -7,7 +7,7 @@
 
 *"Do. Or do not. There is no try."* — Yoda
 
-[![Live Site](https://img.shields.io/badge/Live_Site-Coming_Soon-FFE81F?style=for-the-badge&logo=starship&logoColor=black)](#)
+[![Live Site](https://img.shields.io/badge/Live_Site-Online-FFE81F?style=for-the-badge&logo=starship&logoColor=black)](https://wennernunes.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wenner-luiz-santana-nunes-122712205/)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wennerluiz6@gmail.com)
 
