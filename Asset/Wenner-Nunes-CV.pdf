@@ -1,80 +1,508 @@
-%PDF-1.4
-%“Œ‹ž ReportLab Generated PDF document (opensource)
+%PDF-1.7
+%âãÏÓ
 1 0 obj
 <<
-/F1 2 0 R /F2 3 0 R /F3 4 0 R
+/Producer (pypdf)
+/Title (Wenner Nunes \055 CV)
+/Author (Wenner Luiz Santana Nunes)
 >>
 endobj
 2 0 obj
 <<
-/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+/Type /Pages
+/Count 1
+/Kids [ 4 0 R ]
 >>
 endobj
 3 0 obj
 <<
-/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+/Type /Catalog
+/Pages 2 0 R
+/Outlines 10 0 R
 >>
 endobj
 4 0 obj
 <<
-/BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+/Contents 5 0 R
+/MediaBox [ 0 0 595.27557 841.88977 ]
+/Resources <<
+/Font 6 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+/XObject <<
+>>
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+/Annots [ 11 0 R 12 0 R ]
 >>
 endobj
 5 0 obj
 <<
-/Contents 9 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 8 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 /Trans <<
-
->> 
-  /Type /Page
+/Length 8865
 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 51.35433 775.0394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 20 Tf 24 TL (Wenner Luiz Santana Nunes) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 763.0394 cm
+q
+BT 1 0 0 1 0 3 Tm 12 TL /F1 9 Tf .266667 .266667 .266667 rg (Rickmansworth, UK  ) Tj (|) Tj (  wennerluiz6@gmail.com  ) Tj (|) Tj (  +44 7450 036390  ) Tj (|) Tj (  ) Tj /F2 9 Tf (Full right to work in the UK) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 751.0394 cm
+q
+BT 1 0 0 1 0 3 Tm 12 TL /F1 9 Tf .266667 .266667 .266667 rg (Portfolio: ) Tj /F1 9 Tf .266667 .266667 .266667 rg (wennernunes.netlify.app) Tj (  ) Tj (|) Tj (  GitHub: github.com/WennerNunes) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 739.0394 cm
+q
+.266667 .266667 .266667 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (LinkedIn: linkedin.com/in/wenner-luiz-santana-nunes-122712205) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 735.0394 cm
+Q
+q
+1 0 0 1 51.35433 712.0394 cm
+q
+.121569 .435294 .698039 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (PROFESSIONAL SUMMARY) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 708.5394 cm
+q
+.5 w
+1 J
+.733333 .733333 .733333 RG
+n 0 0 m 492.5669 0 l S
+Q
+Q
+q
+1 0 0 1 51.35433 656.7394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 39.8 Tm /F1 9 Tf 12.2 TL (Front-end developer with real-world projects built in HTML, CSS and JavaScript, currently deepening React, TypeScript and) Tj T* (Node.js through a Full Stack programme. Former business owner with 8 years running my own gardening company,) Tj T* (bringing strong client communication, reliability and self-management. Currently working as a freelance front-end developer) Tj T* (and digital consultant.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 633.7394 cm
+q
+.121569 .435294 .698039 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (TECHNICAL SKILLS) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 630.2394 cm
+q
+.5 w
+1 J
+.733333 .733333 .733333 RG
+n 0 0 m 492.5669 0 l S
+Q
+Q
+q
+1 0 0 1 51.35433 615.0394 cm
+q
+BT 1 0 0 1 0 3.2 Tm 12.2 TL /F2 9 Tf 0 0 0 rg (Proficient:) Tj /F1 9 Tf ( HTML5, CSS3, JavaScript \(ES6+\), Git & GitHub, Responsive Design) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 602.8394 cm
+q
+BT 1 0 0 1 0 3.2 Tm 12.2 TL /F2 9 Tf 0 0 0 rg (Familiar / Learning:) Tj /F1 9 Tf ( React, TypeScript, Node.js, SQL, Firebase \(Auth & Firestore\), Flutter) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 590.6394 cm
+q
+BT 1 0 0 1 0 3.2 Tm 12.2 TL /F2 9 Tf 0 0 0 rg (Tools & Other:) Tj /F1 9 Tf ( VS Code, Figma, npm, Chart.js, LocalStorage, REST API Integration, SEO Basics) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 567.6394 cm
+q
+.121569 .435294 .698039 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (PROJECTS) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 564.1394 cm
+q
+.5 w
+1 J
+.733333 .733333 .733333 RG
+n 0 0 m 492.5669 0 l S
+Q
+Q
+q
+1 0 0 1 51.35433 548.1394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F2 9.2 Tf 12 TL (CoffeeFlow \227 coffeeflowapp.netlify.app) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 523.7394 cm
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 16.4 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 63.35433 523.7394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 15.4 Tm /F1 9 Tf 12.2 TL (Built a cash control app for our family coffee business, used in real life to track income and expenses, with interactive) Tj T* (charts \(Chart.js\), categories, dark mode and data backup \(HTML, CSS, JavaScript\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 507.7394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F2 9.2 Tf 12 TL (Space Login \(Client Project\) \227 github.com/WennerNunes/Space-login-Project) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 483.3394 cm
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 16.4 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 63.35433 483.3394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 15.4 Tm /F1 9 Tf 12.2 TL (Delivered a login and registration system for a paying client, with form validation, password visibility toggle and a) Tj T* (responsive UI. Code published with client approval.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 467.3394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F2 9.2 Tf 12 TL (Household Budget Organizer \227 github.com/WennerNunes/Household-Budget-Organizer) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 442.9394 cm
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 16.4 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 63.35433 442.9394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 15.4 Tm /F1 9 Tf 12.2 TL (Developed a personal finance web app to plan monthly budgets and track expenses, with interactive spending charts) Tj T* (\(Chart.js\) and persistent data via LocalStorage.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 426.9394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F2 9.2 Tf 12 TL (Compound Interest Calculator \227 github.com/WennerNunes/compound-interest-calculator) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 402.5394 cm
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 16.4 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 63.35433 402.5394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 15.4 Tm /F1 9 Tf 12.2 TL (Built an interactive calculator for UK users, using JavaScript for real-time calculations and a mobile-first responsive) Tj T* (layout.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 386.5394 cm
+q
+BT 1 0 0 1 0 2.8 Tm 12 TL /F2 9.2 Tf 0 0 0 rg (Personal Portfolio \227 ) Tj (wennernunes.netlify.app) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 362.1394 cm
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 16.4 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 63.35433 362.1394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 15.4 Tm /F1 9 Tf 12.2 TL (Designed and built a themed, responsive portfolio with project modals, keyboard accessibility and scroll animations) Tj T* (\(HTML, CSS, JavaScript\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 339.1394 cm
+q
+.121569 .435294 .698039 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (PROFESSIONAL EXPERIENCE) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 335.6394 cm
+q
+.5 w
+1 J
+.733333 .733333 .733333 RG
+n 0 0 m 492.5669 0 l S
+Q
+Q
+q
+1 0 0 1 51.35433 319.6394 cm
+q
+BT 1 0 0 1 0 2.8 Tm 12 TL /F2 9.2 Tf 0 0 0 rg (Freelance Front-End Developer & Digital Consultant) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 308.6394 cm
+q
+.266667 .266667 .266667 rg
+BT 1 0 0 1 0 2.5 Tm /F3 8.5 Tf 11 TL (2025 \226 Present) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 296.4394 cm
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 4.2 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 63.35433 296.4394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.2 Tm /F1 9 Tf 12.2 TL (Built and delivered a login and registration system for a paying client \(HTML, CSS, JavaScript\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 272.0394 cm
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 16.4 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 63.35433 272.0394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 15.4 Tm /F1 9 Tf 12.2 TL (Supported All About Nata, a local Portuguese caf\351 in South Oxhey, with SEO improvements, market research and digital) Tj T* (marketing, helping strengthen its online presence.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 256.0394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F2 9.2 Tf 12 TL (Self-Employed Gardener \(Business Owner\) \227 Rickmansworth, UK) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 245.0394 cm
+q
+.266667 .266667 .266667 rg
+BT 1 0 0 1 0 2.5 Tm /F3 8.5 Tf 11 TL (2017 \226 2025) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 220.6394 cm
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 16.4 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 63.35433 220.6394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 15.4 Tm /F1 9 Tf 12.2 TL (Independently managed a client base end-to-end, from scheduling to service delivery, building long-term relationships) Tj T* (through clear communication and reliable work.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 196.2394 cm
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 16.4 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 63.35433 196.2394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 15.4 Tm /F1 9 Tf 12.2 TL (Planned and prioritised a full workload independently, developing organisational and time-management skills directly) Tj T* (transferable to project and client-facing work in tech.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 173.2394 cm
+q
+BT 1 0 0 1 0 3 Tm 14 TL /F2 11 Tf .121569 .435294 .698039 rg (EDUCATION & TRAINING) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 169.7394 cm
+q
+.5 w
+1 J
+.733333 .733333 .733333 RG
+n 0 0 m 492.5669 0 l S
+Q
+Q
+q
+1 0 0 1 51.35433 154.5394 cm
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 4.2 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 63.35433 154.5394 cm
+q
+BT 1 0 0 1 0 3.2 Tm 12.2 TL /F2 9 Tf 0 0 0 rg (Full Stack Development) Tj /F1 9 Tf ( \227 Sujeito Programador, Ongoing \(online\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 142.3394 cm
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 4.2 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 63.35433 142.3394 cm
+q
+BT 1 0 0 1 0 3.2 Tm 12.2 TL /F2 9 Tf 0 0 0 rg (JavaScript Fundamentals) Tj /F1 9 Tf ( \227 Udemy) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 130.1394 cm
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 4.2 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 63.35433 130.1394 cm
+q
+BT 1 0 0 1 0 3.2 Tm 12.2 TL /F2 9 Tf 0 0 0 rg (Bachelor's Degree in History) Tj /F1 9 Tf ( \227 Federal University of Esp\355rito Santo \(UFES\), Brazil) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 107.1394 cm
+q
+.121569 .435294 .698039 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (LANGUAGES) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 103.6394 cm
+q
+.5 w
+1 J
+.733333 .733333 .733333 RG
+n 0 0 m 492.5669 0 l S
+Q
+Q
+q
+1 0 0 1 51.35433 88.43937 cm
+q
+BT 1 0 0 1 0 3.2 Tm 12.2 TL /F1 9 Tf 0 0 0 rg (Portuguese: Native  ) Tj (|) Tj (  English: Fluent) Tj T* ET
+Q
+Q
+ 
+
+endstream
 endobj
 6 0 obj
 <<
-/PageMode /UseNone /Pages 8 0 R /Type /Catalog
+/F1 7 0 R
+/F2 8 0 R
+/F3 9 0 R
 >>
 endobj
 7 0 obj
 <<
-/Author (Wenner Luiz Santana Nunes) /CreationDate (D:20261016103506+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20261016103506+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
-  /Subject (\(unspecified\)) /Title (Wenner Nunes - CV) /Trapped /False
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 8 0 obj
 <<
-/Count 1 /Kids [ 5 0 R ] /Type /Pages
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 9 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 3016
+/BaseFont /Helvetica-Oblique
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
 >>
-stream
-Gau0F>Bedl&q9SYW2D3"!<l%cJ=kD9^`al@A+3gMH64'QLlP]+BhA#[1I$>h>!g:2Cmi5e8W57/lLn6.=/D;2`]p@"f*_T(BCK>CJn`&;$"h6A^haF3fuY<`AoX_Y)Re,"D<Q-`UM]`eGRcC9ok!6Wi"O?*Tm/]8#?kNCl%,.L>iT0R%(Ut0-GIB^KddBI>\,'ShS\\!bl1?=J&aeNKXu=qkS%)WaWe^Eg4VWr1b9HX\i\f7%uhOeh$5K)*[?rQRW/--5g+*DQ%&m\e9X_de,>%D0HglY$?kk6Xj_i=a$DS!fC$+lY3YQ;"0GF1Qq7TVpo>+W#Z1:ZL_.uL7h'4cO.Ul`rRY`W16NhBrBWlIB0'qV/HQ9=s'AK=B#D`81kG2\lHB3b]5*5Tn\q=q5@sFbn3sq2k2aeu3>h%9hsORi5:h,AB1dl!(H'2V]]Y2MGR@>u&tr>rKHKch[j^[H,_p"_,lLoDATdN]gSpt42EUWi?s6Q/9FIEJ#GYcj(B2a$q`VT<a:o"U1XAm7bOs+j31*H2PH2#E9Q.[p4hLMc%2IV\_qAe_^a%_-q8DLNoE@I.^UZH5ocjP%oI[t#;;F-$Ql^RflaV35q#Z-;m/7J9,EL/I7:Fp0i;semJ]fI]MXcM,!QCIC@G]'/`%(W']ek:c-=f_ooP+#Agk:UM'H!G>bT>Ed;^+u+i+5ON0U6F$*fkRp66C))oC11E*V91e3jis4j!n5Oj'.,GWM7UD!<\n)e!,.P,hc<N#e0oQ8-PsI4A,g/,_>/6h!!IE2.nB>Q%`CLYbnJZ1UY:]5fgnq>W5<LF+qB+.nPU.^`0(7Xm*PB$\cW!&VWsOJJ;oQUe'+kd"KSR$]>noH%<@CE)Be3'o&=#&i=!q30u2g3.BS$DlEh%E?R#+R7+l"P"ElKe9Dj.Y&.5arc=Hu%5'hMN@kL`?Uj)G[#Xde@D*tY:$5pO--uiBGfs!r!Bm<YMO),S=Iq^YT+-c_7t]B1<ZhcoNPX-CmI#CdasObOMJ!T"S&?-Yn\F*.:P9h@E)#(BHH3$LA-!m6.JNmQ6o3eFa+g-YC-n%H9pkp?.6/*"cWS-4Wj<*ij.60DP"(=mKgV9)kn\l+/TLW(_`cS6=VSs\78L/DWZ<&X3J@jjR<6Dchh3Zn0IeTM;JjE5nsGrA_O+jNKY_a7B@e@FKdk&7OQY_I0S+;2#d6]NF51ZPP+QUlT*H1=)G/qu*Q*9B,]PlYb4G?DI;;dQ0gLInl,aahEln,R7ZVMDXVQg*rOg(@=WAA(:Sh0r%K'JK:2='k$<#V'8U\K...)K>9\7Xe[;fi&]2-@]KcgWV'lqAt//k)X*U[/k/I!7h<`E_:i(H>q?l:DL1'L<C]QN1eZG/4>9DF+-*Ha\Z02#&610)hi7#7Ccl^kol`%IBq]O/,lJN1VQ;CibuU%\iJ$)ZbfjckYTA%3U05pmHWl"PZ>TqAi&.>'X<a^RA2[b>KD\pIeZ9fVP.Mf(V4O_N%DI>oIfP,*?Z*j9W/E;)Q:c$k!75p'r83nc&Y]W>qILXCQd+B=-.*_7B8%6ST`TO=Fpe'V(K(J#`lAV+H`Ucd#F@M#lR.&fW9&%iOj"-[1kPd6Z&1`@t(5pW1t)JS:01<0GH6):sVk]UM#&diV:QQfS+7f)'IM*YsY#\DM98-b(59+ErfO\ZR$a=9N.Gb-L7T#*nk//7!(Ps#A5nlRD,egca2d'mL&rAR5<7E@23aa"r$"PI)oKigL(,1L`(OjA17_*SbZ6,]9(dhUH*\b8Fc6_7AH_drua]X#o*dWMBS8@?1q-]rYl-=K6mPR#$r[+@>=Z.p.DnP#P]i[@/_W-K$aJI<g<9JR=^/4@/1?qV1=>@)TZL<dlWS2U[E7EEk>.=;c[Xc9oBgjYq,Ui[iUBNHT4?.SUM.Y@%JX=$#[(ublq$#_DL6Dn`P7gTpPekoI\e?F:;`QWa=2n(=l%t94kDr>!j5k:jhZ*i.)cg0^s,mSb&3*1eR;[d>YTNZkSR286o=`M4nbt;4`/fgao]bn89&ho.B\EE1'KYo>pcU2FkW["KuF9_P7."WE>Q#^h+FhjSFV6@XOCGP\Zp#'F=\@NO,;8T:fpKu4>D6n_*`d&HV_fE]A2^ece`Q*"Ond[i!KDe5!f[hgeh5_H!F7"^Zk'je57j")OrTJL,D)mi"0(Loln2_IiIE[Zq;Q>r,KXES8.c]I$.Y$=6_FaWhT3u.n`N--/G,=tGFf-_MolXo9`Dfa^3G2G6cK86qi<h#!;`i/Q8oj',L^WPkb<+H5C"/P?Zo"0J\`2q,GgNB@![<kTjb:Z%^gVr_Y/6Ut<_uq/Q*i!S#Q<J3'pipFB]GeI[1A`J17]hX3+cTq,@l+CW/0QF07)^K3('1I5nM4QND@%6Ma?@%#cM4'32(KSB!U*8Bi.72NcW.ar0cV']6WsF)V5O=D&5*K#>2&.'m_G[8)]%X_M`eMR]fR;H]+-<CFd'Q8g@N,2JI@R@"6)a-Bj**,gFDc*X('L,5DhHe5S:CQ;QkTOA#hb[EVq79#TJ-\61J3&n1ZZd9BQ[g@aIX7@W'NE&=hY=`<]sWfYgor#-O(L4$p36qX7!d4SeSL7Ja<&Yg@:,r!TgVOF"nl-V'0?=GZ3:QTTtG2SJ;$Rlaj!"'U%>]9SC0RoBZDTSe5mhD:HSrlOU[:C<b.::A?DcOjJ?+]*[4n%MoS#2b*OMgDg)M=*[(M>P"-J5S92eSnddFDe;%GZDTs8L2uM<T,B)IQn#KrZt8^T-/)TIDirYb;ku7B`kie*J"i)#ik!71NNiWX4m9O!sRCNP#_U]s$C:SB?mq&A?48'cF2u8nC1*ip=h/--4s;HKB=dK67WmmIjBjcDtcaaEY,;k7#P?N7?_t"G2]!=MGgioY+bIfC0qj?qHH!)cHW0BSqY40M#Y`+H@Y=d/R(\3O*R^6Nc^IcP?=0A.;nR]>&/m)4t2?hO\!_C+T5+[f*'j9!:`qg$[DtO1Fj?X<`(h7/prKr:.N/$ppReLo9l[BQljpPQ(^fl/86~>endstream
+endobj
+10 0 obj
+<<
+>>
+endobj
+11 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 89.37 751.2 186.92 762.2 ]
+/Border [ 0 0 0 ]
+/A <<
+/S /URI
+/URI (https\072\057\057wennernunes\056netlify\056app)
+>>
+/P 4 0 R
+>>
+endobj
+12 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 144.91 386.4 252.78 397.6 ]
+/Border [ 0 0 0 ]
+/A <<
+/S /URI
+/URI (https\072\057\057wennernunes\056netlify\056app)
+>>
+/P 4 0 R
+>>
 endobj
 xref
-0 10
+0 13
 0000000000 65535 f 
-0000000061 00000 n 
-0000000112 00000 n 
-0000000219 00000 n 
-0000000331 00000 n 
-0000000446 00000 n 
-0000000649 00000 n 
-0000000717 00000 n 
-0000001013 00000 n 
-0000001072 00000 n 
+0000000015 00000 n 
+0000000120 00000 n 
+0000000179 00000 n 
+0000000245 00000 n 
+0000000487 00000 n 
+0000009404 00000 n 
+0000009455 00000 n 
+0000009562 00000 n 
+0000009674 00000 n 
+0000009789 00000 n 
+0000009811 00000 n 
+0000009994 00000 n 
 trailer
 <<
-/ID 
-[<c23d0dcb32143645e19148c785cf2938><c23d0dcb32143645e19148c785cf2938>]
-% ReportLab generated PDF document -- digest (opensource)
-
-/Info 7 0 R
-/Root 6 0 R
-/Size 10
+/Size 13
+/Root 3 0 R
+/Info 1 0 R
 >>
 startxref
-4179
+10178
 %%EOF
