@@ -210,7 +210,34 @@ document.addEventListener('DOMContentLoaded', function() {
         }, 2000);
     });
     
-    // 7. Extra effects
+    // 7. "Email me" button: opens the mail app (if the visitor has one)
+    // and also copies the address, so it always does something visible
+    const emailBtn = document.getElementById('email-btn');
+    const emailStatus = document.getElementById('email-status');
+    const emailAddress = 'wennerluiz6@gmail.com';
+    let emailTimer;
+
+    function showEmailFeedback(message) {
+        emailBtn.textContent = message;
+        if (emailStatus) emailStatus.textContent = message;
+        clearTimeout(emailTimer);
+        emailTimer = setTimeout(() => {
+            emailBtn.textContent = 'Email me';
+            if (emailStatus) emailStatus.textContent = '';
+        }, 2500);
+    }
+
+    if (emailBtn) {
+        emailBtn.addEventListener('click', () => {
+            if (navigator.clipboard && window.isSecureContext) {
+                navigator.clipboard.writeText(emailAddress)
+                    .then(() => showEmailFeedback('Email copied! ✓'))
+                    .catch(() => {});
+            }
+        });
+    }
+
+    // 8. Extra effects
     // Add animation styles
     const style = document.createElement('style');
     style.textContent = `
